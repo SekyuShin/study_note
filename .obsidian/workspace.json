@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "37db5b49225e1dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a92e8138b7d4fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f8fc26fe9c0da2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "skyle/2025/Docker/summary/Docker 강의 (fastcampus).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker 강의 (fastcampus)"
+            }
+          },
+          {
+            "id": "2c5e84642dfea4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "명령어 정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "명령어 정리"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99b586710fc58c4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0c91aab37e2c115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0883219da4c6955a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fef6fad2de869602",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82fbcc8f5dbe62ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "62e9bb9a2a1d4190",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3cd4a363537fdb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10862283dd708b45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "38c6f8993c305bf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "16599520663b0ab6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a133bf8694857f6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "505402351aa8962e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "505402351aa8962e",
+  "lastOpenFiles": [
+    "study_note",
+    "Untitled.md",
+    "skyle/2025/Docker/summary/Docker 강의 (fastcampus).md",
+    "skyle/2025/Docker/summary/Docker란.md",
+    "secret.md",
+    "skyle/2025/Docker/summary/Untitled.md",
+    "skyle/2025/K8s/쿠버네티스.md",
+    "명령어 정리.md",
+    "skyle/2025/K8s/Image",
+    "skyle/2025/K8s/Image/Pasted image 20250706234331.png",
+    "developer-friendly-kubernetes-approach.md",
+    "test.md",
+    "dynamic-scheduling-approach.md",
+    "developer-usage-guide.md",
+    "kubernetes-research-cluster-architecture.md",
+    "kubernetes-loadbalancer-architecture.md",
+    "kubernetes-scheduling-flow.md",
+    "k8s-manifests/README.md",
+    "k8s-manifests/monitoring.yaml",
+    "k8s-manifests/simulation-job.yaml",
+    "k8s-manifests/researcher-pod-template.yaml",
+    "k8s-manifests/priority-class.yaml",
+    "k8s-manifests/resource-quota.yaml",
+    "k8s-manifests/namespace.yaml",
+    "k8s-manifests",
+    "kubernetes-dev-server-with-queue-priority.md",
+    "kubernetes-manifests",
+    "kubernetes-cluster-architecture.md",
+    "security-concerns-and-solutions.md",
+    "kubernetes-cluster-architecture_total.md",
+    "skyle/SK/_Doing.md",
+    "skyle/PI Node.md",
+    "skyle/2025/Docker/fastcampus/part1/ch02. Docker 플랫폼 구성.md",
+    "skyle/2025/Docker/fastcampus/part1/ch01. 컨테이너 가상화 이해.md"
+  ]
+}

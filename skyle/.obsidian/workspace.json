@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "1af90a72ac9f9fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad292c6b1d8ef24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e7039c904fe0e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/Docker/summary/Docker 강의 (fastcampus).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker 강의 (fastcampus)"
+            }
+          },
+          {
+            "id": "1a70f13e1c0f777d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SK/_Done.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Done"
+            }
+          },
+          {
+            "id": "a54440b47b3ed7f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SK/이력서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "이력서"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "586242c4521e0257",
+    "type": "split",
+    "children": [
+      {
+        "id": "b693803c7a866146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa23c7b4102a566",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72422d5cfdf9e59e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd93589b34f517e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "eac7f14a90b96426",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "44504fa62b8d2d50",
+    "type": "split",
+    "children": [
+      {
+        "id": "332aa4a27b7be916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8dde747c7528a1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "046d8905a9253e76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "312ef03c602fe5e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58ef39fa15b80c29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "4e7039c904fe0e15",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "2025/Docker/summary/Docker 강의 (fastcampus).md",
+    "2025/Docker/fastcampus/part1/ch06.Docker 네트워크.md",
+    "SK/이력서.md",
+    "TODO_list.canvas",
+    "SK/_Done.md",
+    "SK/_Doing.md",
+    "SK/부동산.md",
+    "SK/_ToDo.md",
+    "SK/MarkDown.md",
+    "2025/Docker/fastcampus/images/Pasted image 20250310232559.png",
+    "2025/Docker/fastcampus/images/Pasted image 20250311233425.png",
+    "2025/Docker/fastcampus/images/Pasted image 20250310235844.png",
+    "2025/Docker/fastcampus/images/Pasted image 20250310234104.png",
+    "2025/Docker/fastcampus/images/Pasted image 20250310233253.png",
+    "2025/Docker/fastcampus/images/Pasted image 20250310233154.png",
+    "Templates/basic.md",
+    "2025/Docker/fastcampus/part1/ch02. Docker 플랫폼 구성.md",
+    "2025/Docker/fastcampus/part1/ch01. 컨테이너 가상화 이해.md",
+    "2025/Docker/fastcampus/part1/ch00. 강의소개.md",
+    "2025/Docker/fastcampus/images/Pasted image 20250311233229.png",
+    "2025/Docker/fastcampus/images/Pasted image 20250311233216.png",
+    "2025/Docker/fastcampus/images/Pasted image 20250311000932.png",
+    "2025/Docker/fastcampus/images/Pasted image 20250311000357.png",
+    "2025/Docker/summary/Untitled.md",
+    "2025/Docker/summary/Docker란.md",
+    "2025/Docker/fastcampus/part1/ch05. Docker 컨테이너 관리.md",
+    "2025/Docker/fastcampus/part1/ch04.Docker 이미지 관리.md",
+    "2025/Docker/fastcampus/part1/ch03.Docker 엔진.md",
+    "2025/Docker/summary",
+    "PI Node.md",
+    "2025/Docker/fastcampus/images",
+    "2025/Docker/fastcampus/part4",
+    "2025/Docker/fastcampus/part3",
+    "2025/Docker/fastcampus/part2",
+    "2025/Docker/fastcampus/part1",
+    "2025/Docker/fastcampus",
+    "2025/Docker/Untitled.md",
+    "2025/Docker",
+    "Templates",
+    "Untitled 1.md",
+    "2025/MALT/Test.md",
+    "2025/MALT",
+    "TEST MEMO.md",
+    "TEST/Untitled 1.md",
+    "TEST/TEST.md",
+    "TEST.canvas"
+  ]
+}
