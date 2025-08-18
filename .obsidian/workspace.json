@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skyle/2025/K8s/쿠버네티스.md",
+                "file": "skyle/2025/Algorithm/resolve/1001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "쿠버네티스"
+              "title": "1001"
             }
           },
           {
@@ -192,6 +192,15 @@
   },
   "active": "5f8fc26fe9c0da2f",
   "lastOpenFiles": [
+    "skyle/Templates/algoritm_templates(baekjoon).md",
+    "skyle/2025/Algorithm/resolve/1001.md",
+    "skyle/2025/Algorithm/resolve/1000.md",
+    "skyle/Templates/basic.md",
+    "skyle/2025/Algorithm/theory/Into..md",
+    "skyle/2025/Algorithm/resolve",
+    "skyle/2025/Algorithm/theory",
+    "skyle/2025/K8s/쿠버네티스.md",
+    "skyle/2025/Algorithm",
     "skyle/2025/K8s/Image/Pasted image 20250818235012.png",
     "skyle/2025/Docker/summary/Docker 강의 (fastcampus).md",
     "study_note",
@@ -199,7 +208,6 @@
     "skyle/2025/Docker/summary/Docker란.md",
     "secret.md",
     "skyle/2025/Docker/summary/Untitled.md",
-    "skyle/2025/K8s/쿠버네티스.md",
     "명령어 정리.md",
     "skyle/2025/K8s/Image",
     "skyle/2025/K8s/Image/Pasted image 20250706234331.png",
@@ -216,16 +224,11 @@
     "k8s-manifests/researcher-pod-template.yaml",
     "k8s-manifests/priority-class.yaml",
     "k8s-manifests/resource-quota.yaml",
-    "k8s-manifests/namespace.yaml",
-    "k8s-manifests",
     "kubernetes-dev-server-with-queue-priority.md",
-    "kubernetes-manifests",
     "kubernetes-cluster-architecture.md",
     "security-concerns-and-solutions.md",
     "kubernetes-cluster-architecture_total.md",
     "skyle/SK/_Doing.md",
-    "skyle/PI Node.md",
-    "skyle/2025/Docker/fastcampus/part1/ch02. Docker 플랫폼 구성.md",
-    "skyle/2025/Docker/fastcampus/part1/ch01. 컨테이너 가상화 이해.md"
+    "skyle/PI Node.md"
   ]
 }
