@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skyle/2025/Docker/summary/Docker 강의 (fastcampus).md",
+                "file": "skyle/2025/K8s/쿠버네티스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker 강의 (fastcampus)"
+              "title": "쿠버네티스"
             }
           },
           {
@@ -190,11 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505402351aa8962e",
+  "active": "5f8fc26fe9c0da2f",
   "lastOpenFiles": [
+    "skyle/2025/K8s/Image/Pasted image 20250818235012.png",
+    "skyle/2025/Docker/summary/Docker 강의 (fastcampus).md",
     "study_note",
     "Untitled.md",
-    "skyle/2025/Docker/summary/Docker 강의 (fastcampus).md",
     "skyle/2025/Docker/summary/Docker란.md",
     "secret.md",
     "skyle/2025/Docker/summary/Untitled.md",
