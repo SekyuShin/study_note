@@ -41,72 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skyle/2025/Algorithm/resolve/1008.md",
+                "file": "skyle/2025/Algorithm/resolve/11718.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1008"
-            }
-          },
-          {
-            "id": "57386d9f8a0bbcac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skyle/2025/Algorithm/resolve/2884.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2884"
-            }
-          },
-          {
-            "id": "80dd8cb89a28168d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skyle/2025/Algorithm/resolve/15552.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15552"
-            }
-          },
-          {
-            "id": "9bd351770e8947ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skyle/2025/Algorithm/resolve/10871.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10871"
-            }
-          },
-          {
-            "id": "4c0ec803c813f2a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skyle/2025/Algorithm/resolve/11720.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11720"
+              "title": "11718"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,15 +207,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c0ec803c813f2a4",
+  "active": "cb6ea65a69e8c6d3",
   "lastOpenFiles": [
-    "Pasted image 20250901232037.png",
-    "skyle/2025/Algorithm/resolve/11654.md",
+    "skyle/2025/Algorithm/resolve/5622.md",
+    "skyle/2025/Algorithm/resolve/11718.md",
+    "skyle/2025/Algorithm/resolve/1008.md",
+    "skyle/2025/Algorithm/resolve/2884.md",
+    "skyle/2025/Algorithm/resolve/15552.md",
+    "skyle/2025/Algorithm/resolve/10871.md",
+    "skyle/2025/Algorithm/image/Pasted image 20250901232037.png",
+    "skyle/2025/Algorithm/resolve/2908.md",
+    "skyle/2025/Algorithm/resolve/1152.md",
+    "skyle/2025/Algorithm/resolve/2675.md",
+    "skyle/2025/Algorithm/resolve/10809.md",
     "skyle/2025/Algorithm/resolve/11720.md",
+    "skyle/2025/Algorithm/resolve/11654.md",
     "skyle/2025/Algorithm/resolve/9086.md",
     "skyle/2025/Algorithm/resolve/2743.md",
     "skyle/2025/Algorithm/resolve/27866.md",
-    "skyle/2025/Algorithm/resolve/1008.md",
     "skyle/2025/Algorithm/resolve/1546.md",
     "skyle/2025/Algorithm/resolve/10811.md",
     "skyle/2025/Algorithm/resolve/3052.md",
@@ -281,16 +234,8 @@
     "skyle/Templates/algoritm_templates(baekjoon).md",
     "skyle/2025/Algorithm/resolve/2562.md",
     "Untitled.md",
-    "skyle/2025/Algorithm/resolve/10871.md",
     "skyle/2025/Algorithm/resolve/1330.md",
     "skyle/2025/Algorithm/resolve/10807.md",
-    "skyle/2025/Algorithm/resolve/15552.md",
-    "skyle/2025/Algorithm/resolve/14681.md",
-    "skyle/2025/Algorithm/resolve/11382.md",
-    "skyle/2025/Algorithm/resolve/10926.md",
-    "skyle/2025/Algorithm/resolve/10950.md",
-    "skyle/2025/Algorithm/resolve/10998.md",
-    "skyle/2025/Algorithm/resolve/10869.md",
     "skyle/2025/Algorithm/image",
     "skyle/2025/Algorithm/image/Pasted image 20250821231906.png",
     "skyle/2025/Algorithm/resolve",
