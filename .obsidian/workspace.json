@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c09f540bed045a9",
+  "active": "0883219da4c6955a",
   "lastOpenFiles": [
+    "skyle/2025/Algorithm/image/Pasted image 20250920194721.png",
     "skyle/2025/Algorithm/resolve/2798.md",
     "skyle/2025/Algorithm/resolve/2231.md",
     "skyle/2025/Algorithm/resolve/24313.md",
@@ -221,7 +221,6 @@
     "skyle/2025/Algorithm/resolve/10813.md",
     "skyle/2025/Algorithm/resolve/10810.md",
     "skyle/2025/Algorithm/resolve/10809.md",
-    "skyle/2025/Algorithm/resolve/3003.md",
     "Untitled.base",
     "skyle/2025/Algorithm/resolve/5086.py",
     "skyle/2025/Algorithm/image/Pasted image 20250908214556.png",
