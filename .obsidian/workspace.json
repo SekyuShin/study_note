@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skyle/2025/Algorithm/resolve/2839.md",
+                "file": "skyle/2025/Algorithm/resolve/11650.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2839"
+              "title": "11650"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2231",
+                "query": "10989",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,8 +194,19 @@
   },
   "active": "4c09f540bed045a9",
   "lastOpenFiles": [
-    "skyle/2025/Algorithm/resolve/1436.md",
+    "skyle/2025/Algorithm/resolve/10989.md",
+    "skyle/2025/Algorithm/resolve/11650.md",
+    "skyle/2025/Algorithm/resolve/1427.md",
+    "skyle/2025/Algorithm/resolve/2751.md",
+    "skyle/2025/Algorithm/resolve/25305.md",
+    "skyle/2025/Algorithm/resolve/2587.md",
+    "skyle/2025/Algorithm/resolve/2750.md",
+    "skyle/2025/Algorithm/theory/03_탐욕적_기법(Greedy_Algorithm).md",
+    "skyle/2025/Algorithm/theory/05_Dynamic_Programming(DP).md",
+    "skyle/2025/Algorithm/theory/Into..md",
+    "skyle/2025/Algorithm/theory/00_우선순위_큐(priority_queue).md",
     "skyle/2025/Algorithm/resolve/2839.md",
+    "skyle/2025/Algorithm/resolve/1436.md",
     "skyle/2025/Algorithm/resolve/1018.md",
     "skyle/2025/Algorithm/resolve/19532tled.md",
     "skyle/2025/Algorithm/image/Pasted image 20250920213054.png",
@@ -211,18 +222,7 @@
     "skyle/2025/Algorithm/resolve/24262.md",
     "skyle/2025/Algorithm/resolve/14215.md",
     "skyle/2025/Algorithm/resolve/5073.md",
-    "skyle/2025/Algorithm/resolve/10101.md",
-    "skyle/2025/Algorithm/resolve/3009.md",
-    "skyle/2025/Algorithm/resolve/9063.md",
-    "skyle/2025/Algorithm/resolve/15894.md",
     "skyle/2025/Algorithm/image/Pasted image 20250914203352.png",
-    "skyle/2025/Algorithm/resolve/1085.md",
-    "skyle/2025/Algorithm/resolve/27323.md",
-    "skyle/2025/Algorithm/resolve/11653.md",
-    "skyle/2025/Algorithm/resolve/2581.md",
-    "skyle/2025/Algorithm/resolve/1978.md",
-    "skyle/2025/Algorithm/resolve/9506.md",
-    "skyle/2025/Algorithm/resolve/11718.md",
     "Untitled.base",
     "skyle/2025/Algorithm/resolve/5086.py",
     "skyle/2025/Algorithm/image/Pasted image 20250908214556.png",
