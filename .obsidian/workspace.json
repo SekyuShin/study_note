@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skyle/2025/Algorithm/resolve/2164.md",
+                "file": "skyle/SK/Algorithm/resolve/2346.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2164"
+              "title": "2346"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "12789",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,51 +181,51 @@
   },
   "active": "bf78d3c3486ae417",
   "lastOpenFiles": [
-    "skyle/2025/Algorithm/resolve/18258.md",
-    "skyle/2025/Algorithm/resolve/2164.md",
-    "skyle/2025/Algorithm/resolve/12789.md",
-    "skyle/2025/Algorithm/image/Pasted image 20251009230347.png",
-    "skyle/2025/Algorithm/image/Pasted image 20250930232008.png",
-    "skyle/2025/Algorithm/resolve/4949.md",
-    "skyle/2025/Algorithm/resolve/9012.md",
-    "skyle/2025/Algorithm/resolve/10773.md",
-    "skyle/2025/Algorithm/resolve/28278.md",
-    "skyle/2025/Algorithm/resolve/13909.md",
-    "skyle/2025/Algorithm/resolve/17103.md",
-    "skyle/2025/Algorithm/resolve/4948.md",
-    "skyle/2025/Algorithm/resolve/1929.md",
-    "skyle/2025/Algorithm/resolve/4134.md",
-    "skyle/2025/Algorithm/resolve/2485.md",
-    "skyle/2025/Algorithm/resolve/1735.md",
-    "skyle/2025/Algorithm/resolve/13241.md",
-    "skyle/2025/Algorithm/resolve/1934.md",
-    "skyle/2025/Algorithm/resolve/1000.md",
-    "skyle/2025/Algorithm/image/Pasted image 20250929235311.png",
-    "skyle/2025/Algorithm/image/Pasted image 20250930225616.png",
-    "skyle/2025/Algorithm/image/Pasted image 20250929235159.png",
-    "skyle/2025/Algorithm/resolve/1269.md",
-    "skyle/2025/Algorithm/resolve/11478.md",
-    "skyle/2025/Algorithm/resolve/1764.md",
-    "skyle/2025/Algorithm/resolve/1181.md",
-    "skyle/2025/Algorithm/resolve/3009.md",
-    "skyle/2025/Algorithm/resolve/10816.md",
-    "skyle/2025/Algorithm/resolve/1620.md",
-    "skyle/2025/Algorithm/resolve/7785.md",
-    "skyle/2025/Algorithm/resolve/14425.md",
-    "skyle/2025/Algorithm/image/Pasted image 20250920213054.png",
-    "skyle/2025/Algorithm/image/Pasted image 20250920194721.png",
-    "skyle/2025/Algorithm/image/Pasted image 20250914203352.png",
+    "skyle/SK/Algorithm/resolve/18258.md",
+    "skyle/SK/Algorithm/resolve/12789.md",
+    "skyle/SK/Algorithm/resolve/2346.md",
+    "skyle/SK/Algorithm/resolve/28279.md",
+    "skyle/SK/Algorithm/resolve/11866.md",
+    "skyle/SK/Algorithm/resolve/1000.md",
+    "skyle/SK/Server(7)/Nas setup.md",
+    "skyle/SK/Server(7)/Develop server.md",
+    "skyle/SK/MarkDown.md",
+    "skyle/SK/Server(7)",
+    "skyle/SK/Untitled.md",
+    "skyle/Templates/basic.md",
+    "skyle/SK/부동산.md",
+    "skyle/SK/이력서.md",
+    "skyle/SK/_Done.md",
+    "skyle/SK/_Doing.md",
+    "skyle/SK/_ToDo.md",
+    "secret.md",
+    "skyle/SK/Algorithm/resolve/2164.md",
+    "skyle/SK/Algorithm/image/Pasted image 20251009230347.png",
+    "skyle/SK/Algorithm/image/Pasted image 20250930232008.png",
+    "skyle/SK/Algorithm/resolve/4949.md",
+    "skyle/SK/Algorithm/resolve/9012.md",
+    "skyle/SK/Algorithm/resolve/10773.md",
+    "skyle/SK/Algorithm/resolve/28278.md",
+    "skyle/SK/Algorithm/resolve/13909.md",
+    "skyle/SK/Algorithm/resolve/17103.md",
+    "skyle/SK/Algorithm/resolve/4948.md",
+    "skyle/SK/Algorithm/resolve/1929.md",
+    "skyle/SK/Algorithm/image/Pasted image 20250929235311.png",
+    "skyle/SK/Algorithm/image/Pasted image 20250930225616.png",
+    "skyle/SK/Algorithm/image/Pasted image 20250929235159.png",
+    "skyle/SK/Algorithm/image/Pasted image 20250920213054.png",
+    "skyle/SK/Algorithm/image/Pasted image 20250920194721.png",
+    "skyle/SK/Algorithm/image/Pasted image 20250914203352.png",
     "Untitled.base",
     "skyle/2025/Algorithm/resolve/5086.py",
-    "skyle/2025/Algorithm/image/Pasted image 20250908214556.png",
-    "skyle/2025/Algorithm/image/Pasted image 20250907200926.png",
-    "skyle/2025/Algorithm/image",
-    "skyle/2025/Algorithm/resolve",
-    "skyle/2025/Algorithm/theory",
-    "skyle/2025/Algorithm",
+    "skyle/SK/Algorithm/image/Pasted image 20250908214556.png",
+    "skyle/SK/Algorithm/image/Pasted image 20250907200926.png",
+    "skyle/SK/Algorithm/image",
+    "skyle/SK/Algorithm/resolve",
+    "skyle/SK/Algorithm/theory",
+    "skyle/SK/Algorithm",
     "study_note",
     "skyle/2025/K8s/Image",
-    "k8s-manifests/monitoring.yaml",
-    "k8s-manifests/simulation-job.yaml"
+    "k8s-manifests/monitoring.yaml"
   ]
 }
