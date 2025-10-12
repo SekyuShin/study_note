@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skyle/SK/Algorithm/resolve/2346.md",
+                "file": "skyle/SK/Algorithm/resolve/24511.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2346"
+              "title": "24511"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,11 +178,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf78d3c3486ae417",
+  "active": "505402351aa8962e",
   "lastOpenFiles": [
+    "skyle/SK/Algorithm/resolve/3003.md",
+    "skyle/SK/Algorithm/resolve/24511.md",
+    "skyle/SK/Algorithm/resolve/2346.md",
     "skyle/SK/Algorithm/resolve/18258.md",
     "skyle/SK/Algorithm/resolve/12789.md",
-    "skyle/SK/Algorithm/resolve/2346.md",
     "skyle/SK/Algorithm/resolve/28279.md",
     "skyle/SK/Algorithm/resolve/11866.md",
     "skyle/SK/Algorithm/resolve/1000.md",
@@ -208,8 +209,6 @@
     "skyle/SK/Algorithm/resolve/28278.md",
     "skyle/SK/Algorithm/resolve/13909.md",
     "skyle/SK/Algorithm/resolve/17103.md",
-    "skyle/SK/Algorithm/resolve/4948.md",
-    "skyle/SK/Algorithm/resolve/1929.md",
     "skyle/SK/Algorithm/image/Pasted image 20250929235311.png",
     "skyle/SK/Algorithm/image/Pasted image 20250930225616.png",
     "skyle/SK/Algorithm/image/Pasted image 20250929235159.png",
