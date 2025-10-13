@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skyle/SK/Algorithm/resolve/24511.md",
+                "file": "skyle/SK/Algorithm/resolve/11050.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24511"
+              "title": "11050"
             }
           }
         ]
@@ -178,10 +178,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505402351aa8962e",
+  "active": "bf78d3c3486ae417",
   "lastOpenFiles": [
-    "skyle/SK/Algorithm/resolve/3003.md",
+    "Untitled.base",
+    "skyle/SK/Algorithm/resolve/11050.md",
+    "skyle/SK/Algorithm/image/Pasted image 20251013225552.png",
+    "skyle/SK/Algorithm/image/Pasted image 20251013221757.png",
+    "skyle/SK/Algorithm/resolve/10872.md",
+    "skyle/SK/Algorithm/resolve/24723.md",
+    "skyle/SK/Algorithm/resolve/15439.md",
     "skyle/SK/Algorithm/resolve/24511.md",
+    "skyle/SK/Algorithm/resolve/3003.md",
     "skyle/SK/Algorithm/resolve/2346.md",
     "skyle/SK/Algorithm/resolve/18258.md",
     "skyle/SK/Algorithm/resolve/12789.md",
@@ -204,21 +211,13 @@
     "skyle/SK/Algorithm/image/Pasted image 20251009230347.png",
     "skyle/SK/Algorithm/image/Pasted image 20250930232008.png",
     "skyle/SK/Algorithm/resolve/4949.md",
-    "skyle/SK/Algorithm/resolve/9012.md",
-    "skyle/SK/Algorithm/resolve/10773.md",
-    "skyle/SK/Algorithm/resolve/28278.md",
-    "skyle/SK/Algorithm/resolve/13909.md",
-    "skyle/SK/Algorithm/resolve/17103.md",
     "skyle/SK/Algorithm/image/Pasted image 20250929235311.png",
     "skyle/SK/Algorithm/image/Pasted image 20250930225616.png",
     "skyle/SK/Algorithm/image/Pasted image 20250929235159.png",
     "skyle/SK/Algorithm/image/Pasted image 20250920213054.png",
     "skyle/SK/Algorithm/image/Pasted image 20250920194721.png",
     "skyle/SK/Algorithm/image/Pasted image 20250914203352.png",
-    "Untitled.base",
     "skyle/2025/Algorithm/resolve/5086.py",
-    "skyle/SK/Algorithm/image/Pasted image 20250908214556.png",
-    "skyle/SK/Algorithm/image/Pasted image 20250907200926.png",
     "skyle/SK/Algorithm/image",
     "skyle/SK/Algorithm/resolve",
     "skyle/SK/Algorithm/theory",
