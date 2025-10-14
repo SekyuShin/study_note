@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"a9ceb24318220e06","type":"file","file":"SK/_ToDo.md","x":-1760,"y":-700,"width":460,"height":700},
-		{"id":"963b9f12dd149b18","type":"file","file":"SK/_Done.md","x":-780,"y":-700,"width":480,"height":700},
-		{"id":"2e62c2036e6dd2ab","type":"file","file":"SK/_Doing.md","x":-1300,"y":-700,"width":500,"height":700}
-	],
-	"edges":[]
-}
